@@ -1,0 +1,16 @@
+body
+{
+    font-family: "Roboto", sans-serif;
+    color: blue;
+    background-color: lightyellow;
+    text-align: center;
+    text-align:justify;
+}
+
+img
+{
+    border-radius: 20px;
+    border-color:solid green ;
+    padding: 0;
+    margin: 0;
+}
